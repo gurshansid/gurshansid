@@ -5,6 +5,6 @@
 - <b>Speed Typing Game</b>
   - [ZType](https://github.com/gurshansid/SpeedTypingGame)
 - <b>Minesweeper Implementation</b>
-  - [Minesweeper](https://github.com/gurshansid/SpeedTypingGame)
+  - [Minesweeper](https://github.com/gurshansid/Minesweeper)
 
 <h2> 🤳 Connect with me:</h2>
