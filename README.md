@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2> 
 
 - <b>NVIDIA Stock Price Predictor</b>
-  - [NVIDIA Price Prediction Model](https://github.com/gurshansid/NVIDIAPredictor)
+  - [NVIDIA Machine Learning Model](https://github.com/gurshansid/NVIDIAPredictor)
 - <b>Marble Solitaire</b>
   - [MarbleSolitaire](https://github.com/gurshansid/MarbleSolitaire)
 - <b>Puzzle Game using Breadth First and Kruskal's</b>
