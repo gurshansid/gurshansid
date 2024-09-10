@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2> 
 
+- <b>LaLiga Match Predictor</b>
+  - [Machine Learning Algorithm for LaLiga Match Prediction](https://github.com/gurshansid/NVIDIAPredictor)
 - <b>NVIDIA Stock Price Predictor</b>
   - [NVIDIA Machine Learning Model](https://github.com/gurshansid/NVIDIAPredictor)
 - <b>Marble Solitaire</b>
