@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2> 
 
+- <b>Application Tracking App</b>
+  - [Northeastern Application Tracker](https://github.com/gurshansid/JazzMen-NUTrack-Project)
 - <b>LaLiga Match Predictor</b>
   - [Machine Learning Algorithm for LaLiga Match Prediction](https://github.com/gurshansid/LaLiga-Match-Prediction-Algorithm-Model)
 - <b>NVIDIA Stock Price Predictor</b>
