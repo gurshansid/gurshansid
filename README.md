@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2> 
 
-- <b>Personalized Media Reccomendation AI Agent</b>
+- <b>Media Reccomendation AI Agent</b>
   - [Moodify](https://github.com/gurshansid/Moodify)
 - <b>Application Tracking App</b>
   - [Northeastern Application Tracker](https://github.com/gurshansid/JazzMen-NUTrack-Project)
