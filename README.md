@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2> 
 
+- <b>Machine Learning Fantasy Football Auto Drafter</b>
+  - [Auto Drafting Agent](https://github.com/gurshansid/MLAutoDrafter)
 - <b>Media Reccomendation AI Agent</b>
   - [Moodify](https://github.com/gurshansid/Moodify)
 - <b>Application Tracking App</b>
